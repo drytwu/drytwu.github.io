@@ -6,8 +6,15 @@
     <description>Recent content in Prostate cancer on Urologist | Dr. Yen-Ting Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jan 2024 01:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 01:07:47 +0800</lastBuildDate>
     <atom:link href="https://drytwu.github.io/tags/prostate-cancer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Prostate-Specific Antigen (PSA)?</title>
+      <link>https://drytwu.github.io/blog/0007_psa_introduction/</link>
+      <pubDate>Sun, 14 Jan 2024 01:07:47 +0800</pubDate>
+      <guid>https://drytwu.github.io/blog/0007_psa_introduction/</guid>
+      <description>What is PSA? PSA stands for Prostate-Specific Antigen, and it is one of the most common tests ordered by urologists.</description>
+    </item>
     <item>
       <title>Olaparib: a new medication for metastatic prostate cancer</title>
       <link>https://drytwu.github.io/blog/0006_parp-inhibitor/</link>
