@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://drytwu.github.io/tags/bph/</loc>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
+  </url><url>
     <loc>https://drytwu.github.io/categories/</loc>
-    <lastmod>2024-01-21T01:07:47+08:00</lastmod>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/blog/0009_diabetes_bladder_dysfunction/</loc>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/tags/enlarged-prostate/</loc>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/categories/general-urology/</loc>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/tags/greenlight-laser-prostatectomy/</loc>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/tags/overactive-bladder/</loc>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/tags/</loc>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/</loc>
+    <lastmod>2024-01-28T01:07:47+08:00</lastmod>
   </url><url>
     <loc>https://drytwu.github.io/tags/da-vinci-robotic-assisted-laparoscopic-radical-prostatectomy/</loc>
     <lastmod>2024-01-21T01:07:47+08:00</lastmod>
@@ -17,13 +41,7 @@
     <loc>https://drytwu.github.io/blog/0008_prostatecancer_riskfactors/</loc>
     <lastmod>2024-01-21T01:07:47+08:00</lastmod>
   </url><url>
-    <loc>https://drytwu.github.io/tags/</loc>
-    <lastmod>2024-01-21T01:07:47+08:00</lastmod>
-  </url><url>
     <loc>https://drytwu.github.io/tags/urological-cancers/</loc>
-    <lastmod>2024-01-21T01:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://drytwu.github.io/</loc>
     <lastmod>2024-01-21T01:07:47+08:00</lastmod>
   </url><url>
     <loc>https://drytwu.github.io/blog/0007_psa_introduction/</loc>
@@ -42,6 +60,9 @@
     <lastmod>2023-12-31T00:05:00+08:00</lastmod>
   </url><url>
     <loc>https://drytwu.github.io/tags/single-incision-laparoscopic-hernia-repair/</loc>
+    <lastmod>2023-12-31T00:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/blog/0005_f_inguinal_hernia_surgery/</loc>
     <lastmod>2023-12-31T00:05:00+08:00</lastmod>
   </url><url>
     <loc>https://drytwu.github.io/blog/0005_inguinal_hernia_surgery/</loc>
@@ -65,25 +86,19 @@
     <loc>https://drytwu.github.io/tags/urologic-cancers/</loc>
     <lastmod>2023-12-07T23:17:00+08:00</lastmod>
   </url><url>
-    <loc>https://drytwu.github.io/categories/general-urology/</loc>
-    <lastmod>2023-11-30T17:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://drytwu.github.io/tags/overactive-bladder/</loc>
-    <lastmod>2023-11-30T17:07:47+08:00</lastmod>
-  </url><url>
     <loc>https://drytwu.github.io/blog/0001_refractory_oab/</loc>
     <lastmod>2023-11-30T17:07:47+08:00</lastmod>
   </url><url>
     <loc>https://drytwu.github.io/blog/0000_introduction/</loc>
     <lastmod>2023-11-17T05:12:26+08:00</lastmod>
   </url><url>
-    <loc>https://drytwu.github.io/about/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
     <loc>https://drytwu.github.io/blog/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://drytwu.github.io/search/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://drytwu.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://drytwu.github.io/contact/</loc>
